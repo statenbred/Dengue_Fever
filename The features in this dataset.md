@@ -32,3 +32,4 @@ ndvi_se – Pixel southeast of city centroid
 ndvi_sw – Pixel southwest of city centroid
 ndvi_ne – Pixel northeast of city centroid
 ndvi_nw – Pixel northwest of city centroid
+
